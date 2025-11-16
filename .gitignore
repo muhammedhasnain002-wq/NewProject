@@ -1,0 +1,53 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.log
+*.pdb
+*.ilk
+*.meta
+*.tlog
+*.cache
+*.build
+*.sbr
+*.res
+*.pch
+*.exp
+*.lib
+*.obj
+*.aps
+*.bsc
+*.ncb
+*.opensdf
+*.sdf
+*.ipch
+_UpgradeReport_Files/
+.teststore
+*.VC.db
+*.VC.opendb
+
+# Packages
+*.nupkg
+*.snupkg
+*.dll
+*.exe
+*.json
+*.deps.json
+*.runtimeconfig.json
+packages/
+
+# Rider
+.idea/
+*.iml
+
+# Misc
+.DS_Store
+Thumbs.db
